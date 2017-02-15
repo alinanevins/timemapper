@@ -11,3 +11,4 @@ settings.json*
 test/tmpdb/*
 db/*
 test/db
+.DS_Store

@@ -163,7 +163,7 @@ body.view {
 }
 
 body.view .navbar {
-  margin-bottom: 0px; 
+  margin-bottom: 0px;
 }
 
 body.view .navbar ul.pull-right a {
@@ -241,13 +241,13 @@ body.view .navbar ul.nav.pull-right {
 .data-views .timeline-pane {
   margin: 0;
   padding: 0;
-  width: 66.66%;
+  width: 50%;
   float: left;
 }
 .data-views .map-pane {
   margin: 0;
   padding: 0;
-  width: 33.33%;
+  width: 49%;
   float: left;
 }
 
@@ -308,7 +308,7 @@ i.title-link {
   *********************************************************/
 
 body.viewtype-timeline .map-pane {
-  display: none; 
+  display: none;
 }
 
 body.viewtype-timeline .timeline-pane {
@@ -320,7 +320,7 @@ body.viewtype-timeline .timeline-pane {
   *********************************************************/
 
 body.viewtype-map .timeline-pane {
-  display: none; 
+  display: none;
 }
 
 body.viewtype-map .map-pane {
@@ -391,7 +391,7 @@ body.account .meta ul.vcard .description {
 }
 
 .meta ul.stats li {
-  display: inline-block; 
+  display: inline-block;
 }
 
 .meta ul.stats li strong {
